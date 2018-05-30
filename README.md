@@ -1,6 +1,6 @@
-# hello_world_android_studio
+# Hello World Flutter App
 
-Drive testing flutter
+Drive testing flutter while following along [Google+Udacity's course](https://www.udacity.com/course/build-native-mobile-apps-with-flutter--ud905).
 
 ## Getting Started
 
